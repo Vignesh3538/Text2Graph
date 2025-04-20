@@ -1,0 +1,7 @@
+tensorflow==2.17.0
+transformers>=4.37.0,<4.40.0
+datasets>=2.16.0,<2.19.0
+numpy>=1.21.0,<1.27.0
+tokenizers>=0.14.0,<0.16.0
+keras-preprocessing>=1.1.2,<1.2.0
+neo4j
